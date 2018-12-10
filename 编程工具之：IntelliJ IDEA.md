@@ -1,4 +1,4 @@
-# 最重要的功能，没有之一。查询快捷操作入口：help--Find Action
+# 最重要的功能。可以搜索全部快捷键：help--Find Action
 # 一、高效定位代码之跳转
 ## 1.项目之间的跳转
 window--Next Project Window || Previous Project Window
@@ -8,7 +8,7 @@ Recent Changed Files：最近修改过的文件
 ## 3.浏览修改位置跳转
 Navigate--Last Edit Location（Next Edit Location）：跳转到上回（下次）编辑的地方
 Navigate--Back（Forward）：跳转到上回（下次）浏览的地方，**光标停的地方**
-## 4.利用书签跳转（快速学习源码，这个功能简直了）
+## 4.利用书签跳转（快速学习源码）
 Bookmarks书签--toggle Bookmarks 加书签
 Bookmarks书签--toggle Bookmarks with Mnemonic 加带有数字标记书签
 ## 5.收藏位置和文件
